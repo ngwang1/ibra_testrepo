@@ -1,0 +1,10 @@
+{
+  "Resources": {
+    "Mysnscode": {
+      "Type": "AWS::SNS::Topic",
+      "Properties": {
+        "TopicName": "ib-sns-code"
+      }
+    }
+  }
+}
